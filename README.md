@@ -1,7 +1,6 @@
-
 # Antonio Lopez
 
-## Geography
+### Geography
 
 I live in Guadalajara city, in the Jalisco state, in Mexico
 
