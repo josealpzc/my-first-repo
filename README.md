@@ -1,30 +1,23 @@
 # This is a large heading
+#Antonio Lopez
 
-## This is a smaller heading
+##Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Guadalajara city, in the Jalisco state, in Mexico
 
-- This is
-- an unordered
-- list
+### VideoGames
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite games are:
+ -*Halo*
+ -*League of Leguends*
+ -*FIFA*
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+ 1. Lasagña
+ 2. Pizza
+ 3. Sushi
 
-Here is how you make [a link](https://www.wikipedia.org/).
+###Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+ :) 
