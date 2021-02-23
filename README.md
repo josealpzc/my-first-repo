@@ -2,14 +2,15 @@
 
 ### Geography
 
-I live in Guadalajara city, in the Jalisco state, in Mexico
+I live in Guadalajara city, in the state of Jalisco, in Mexico
 
 ### VideoGames
 
 Three of my favorite games are:
- -*Halo*
- -*League of Leguends*
- -*FIFA*
+
+ - Halo
+ - League of Leguends
+ - FIFA
 
 ### Food
 
@@ -19,4 +20,4 @@ Three of my favorite games are:
 
 ### Contact
 
- :) 
+ "Hi" 
