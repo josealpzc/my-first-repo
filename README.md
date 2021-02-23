@@ -1,7 +1,7 @@
-# This is a large heading
-#Antonio Lopez
 
-##Geography
+# Antonio Lopez
+
+## Geography
 
 I live in Guadalajara city, in the Jalisco state, in Mexico
 
